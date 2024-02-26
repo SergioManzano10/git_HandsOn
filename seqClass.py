@@ -1,3 +1,8 @@
+# This package takes as input a sequence and classifies it as DNA or RNA.
+
+# Moreover, it given a determinate motif, it checks if it is found or not in the sequence.
+
+
 import sys, re
 from argparse import ArgumentParser
 
